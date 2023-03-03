@@ -1,0 +1,21 @@
+**********************************
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1.Klasik - 8.99$
+2.Margherita - 9.99$
+3.Turk - 13.99$
+4.Dominos - 16.99$
+
+* Pizzanızın boyutunu seçiniz:
+5.Small - 0.75 * Pizza Fiyatı
+6.Medium - 1 * Pizza Fiyatı
+7.Large - 1.25 * Pizza Fiyatı 
+
+* ve seçeceğiniz sos:
+11.Zeytin Sosu - +0.99$
+12.Mantar Sosu - +1.99$
+13.Keçi Peyniri - +2.99$
+14.Et Sosu - +3.99$
+15.Soğan Sosu - +0.99$
+16.Mısır Sosu - +1.99$
+* Teşekkür ederiz! 
+**********************************
